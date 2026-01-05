@@ -292,7 +292,7 @@ This project is developed in collaboration with:
 ## 👥 Authors
 
 - Developed for ATI and Ethiopian Statistical Agency
-- Contact: [Your contact information]
+- Contact: musshaile@gmail.com
 
 ## 🙏 Acknowledgments
 
